@@ -1,0 +1,46 @@
+body{font-family: 'El Messiri', sans-serif;}
+.carousel-caption {
+  bottom: 30%
+}
+
+.about-content i {
+font-size:35px;
+}
+
+.getting{
+background:url(../images/1.JPG);
+height:200px;
+background-size:cover;
+position:relative;
+}
+
+.getting-overlay{
+position:absolute;
+width:100%;
+height:100%;
+background:rgba(220,53,69,.5);
+}
+
+.section-banner{
+background:url(../images/bn2.jpg);
+height:250px;
+background-size:cover;
+background-position:center;
+}
+
+.scrolltop{ position:fixed;
+bottom:20px;
+right:15px;
+}
+
+.scrollup i {
+    margin-left: 5%;
+    font-size: 55px;
+    margin-bottom: 10px;}
+	
+.img-fluid {
+    max-width: 100%;
+    height: auto;}
+   
+
+
